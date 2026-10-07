@@ -1,0 +1,49 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+/* Cabeçalho */
+header {
+    background: linear-gradient(to right, blue, green);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Banner */
+.banner {
+    background: linear-gradient(to right, blue, purple, orange);
+    color: white;
+    text-align: center;
+    padding: 50px;
+    min-height: 200px;
+}
+
+/* Botões */
+button {
+    background: linear-gradient(to right, blue, #5555ff);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
+
+/* Cards */
+.cursos {
+    text-align: center;
+    padding: 30px;
+}
+
+.card {
+    background: linear-gradient(to right, #eeeeee, #dddddd);
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Rodapé */
+footer {
+    background: linear-gradient(to right, black, gray);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}

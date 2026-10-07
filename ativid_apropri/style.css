@@ -1,0 +1,18 @@
+header {
+    background-color: darkorchid;
+    color: white;
+}
+
+.atividade {
+    background: linear-gradient(blue, red);
+    color: white;
+}
+
+.respostas {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    background-color: deepskyblue;
+    color: white;
+}
